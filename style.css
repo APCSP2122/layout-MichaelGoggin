@@ -7,34 +7,56 @@ html {
 
 body {
     color: #000;
+    font-size:2.5rem;
 }
 
-
+/*
+ ( ͡° ͜ʖ ͡°) 
+*/
 
 header {
     background-color:   DeepSkyBlue;
+    Border:10px solid Orange;
+    padding: 50px;
+    Margin:50px;
+    Display: flex;
+    Justify-content: Space-between; /* moves items along Main Axis */
+    Align-items: center; /* Moves items along the cross axis*/
 }
+
 
 
 
 main {
     background-color:     DarkBlue;
+     Border:10px solid Orange;
+      padding: 50px;
+    Margin:50px;
 }
 
 
 
 footer {
     background-color:   DeepSkyBlue;
+     Border:10px solid Orange;
+      padding: 50px;
+    Margin:50px;
 }
 
 
 
 section {
-    background-color: yellow;    
+    background-color: yellow;   
+    Border:10px solid Orange;
+      padding: 25px;
+    Margin:25px;
 }
 
 
 
 aside {
     background-color: lightGreen;
+    Border:10px solid Orange;
+      padding: 20px;
+    Margin:20px;
 }
