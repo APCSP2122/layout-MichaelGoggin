@@ -7,6 +7,10 @@ nav ul {
     display: flex;
     justify-content:space-around;
     List-style-type: none;
+    align-items: center;
+}
+nav ul li a{
+    text-decoration: none;
 }
 /*nav ul is making the line straight */
 .logo {
@@ -15,6 +19,3 @@ nav ul {
 .profile {
     flex-grow: 1;
 }
-Nav ul li a{
-    text-decoration: none;
-} 

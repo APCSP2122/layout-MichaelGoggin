@@ -17,8 +17,9 @@ body {
 header {
     background-color:   DeepSkyBlue;
     Border:10px solid Orange;
-    padding: 50px;
-    Margin:50px;
+    padding: 10px;
+    Margin:10px;
+    font-size:2rem;
     Display: flex;
     Justify-content: Space-between; /* moves items along Main Axis */
     Align-items: center; /* Moves items along the cross axis*/
@@ -51,9 +52,9 @@ footer {
 section {
     background-color: yellow;   
     Border:10px solid Orange;
-      padding: 25px;
+    Padding: 25px;
     Margin:25px;
-        Display:flex;
+     Display:flex;
     Justify-content:space-around;
     Align-items:center;
     width: 70vw;
@@ -64,6 +65,6 @@ section {
 aside {
     background-color: lightGreen;
     Border:10px solid Orange;
-      padding: 20px;
+      padding: 30px;
     Margin:20px;
 }
